@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bluedevcyber et je suis dans le monde du Dev depuis 2020 !
-- 👀 I’m interested in  le HTML/CSS. JavaScript, VsCode, Git, PHP  et MySQL
-- 🌱 I’m currently learning ...VueJS
-- 📫 How to reach me  : geoffrey.wavelet@yahoo.com
-- 📱 Je fais également du responsiv Design
+- 👋  Hi, I’m @Bluedevcyber et je suis dans le monde du Dev depuis 2020 !
+- 👀  I’m interested in  le HTML/CSS. JavaScript, VsCode, Git, PHP  et MySQL
+- 🌱  I’m currently learning ...VueJS
+- 📫  How to reach me  :point_right: geoffrey.wavelet@yahoo.com
+- 📱  Je fais également du responsiv Design
